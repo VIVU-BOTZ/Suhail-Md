@@ -17,19 +17,19 @@ global.blockJids= process.env.BLOCK_JID || "null"
 global.DATABASE_URL = process.env.DATABASE_URL || ""
 
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "Asia/Sri lanka";
-global.github=process.env.GITHUB|| "https://github.com/SuhailTechInfo/Suhail-Md";
-global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029Va9thusJP20yWxQ6N643";
-global.website=process.env.GURL || "https://whatsapp.com/channel/0029Va9thusJP20yWxQ6N643" ; 
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://github.com/SuhailTechInfo/Suhail-Md/blob/main/lib/assets/suhail.jpg?raw=true" ; // SET LOGO FOR IMAGE 
+global.github=process.env.GITHUB|| "https://github.com/VIVU-BOTZ/OZZY-md";
+global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029Va9gDhXBFLgcGdKxrz1c";
+global.website=process.env.GURL || "https://whatsapp.com/channel/0029Va9gDhXBFLgcGdKxrz1c" ; 
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE ||https://github.com/VIVU-BOTZ/OZZY-md/blob/main/lib/assets/suhail.jpg?raw=true" ; // SET LOGO FOR IMAGE 
 
 
 
-global.devs = "923184474176" // Developer Contact
+global.devs ="94766911711" // Developer Contact
 global.sudo = process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') : "94766911711";
 global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "94766911711";
 
 
-
+https://whatsapp.com/channel/0029Va9gDhXBFLgcGdKxrz1c
 
 //========================= [ BOT SETTINGS ] =========================\\
 global.style = process.env.STYLE   || '5'  // put '1' to "5" here to check bot styles
